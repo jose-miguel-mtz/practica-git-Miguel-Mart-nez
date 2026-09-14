@@ -1,0 +1,1 @@
+Este es un archivo de testo de prueba para a sincronización de Git con GitHub.
